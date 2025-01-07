@@ -13,10 +13,12 @@
         "cheerio": "^1.0.0",
         "cors": "^2.8.5",
         "dotenv": "^16.3.1",
+        "elevenlabs": "^1.50.2",
         "express": "^4.18.2",
         "langchain": "^0.0.200",
         "pdf-parse": "^1.1.1",
-        "winston": "^3.11.0"
+        "winston": "^3.11.0",
+        "ws": "^8.18.0"
     },
     "devDependencies": {
         "nodemon": "^3.0.2"

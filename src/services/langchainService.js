@@ -2,6 +2,7 @@ const { ChatOpenAI } = require('langchain/chat_models/openai');
 const { ConversationChain, LLMChain } = require('langchain/chains');
 const { ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate } = require('langchain/prompts');
 const { BufferMemory } = require('langchain/memory');
+const { ElevenLabsClient } = require("elevenlabs");
 const { PDFLoader } = require('langchain/document_loaders/fs/pdf');
 const scholarshipScraper = require('./scraper/scholarshipScraper');
 const config = require('../config/config');
@@ -12,6 +13,10 @@ class LangChainService {
             temperature: config.llm.temperature,
             modelName: config.llm.model,
             openAIApiKey: config.openaiApiKey
+        });
+
+        this.elevenlabs = new ElevenLabsClient({
+            apiKey: config.elevenLabsApiKey
         });
 
         this.memory = new BufferMemory({
@@ -119,13 +124,19 @@ class LangChainService {
                 .replace(/[#*]/g, '')
                 .trim();
     
+            // Generate voice response
+            const voiceResponse = await this.generateVoiceResponse(trimmedResponse);
+    
             const history = await this.memory.loadMemoryVariables({});
     
             return {
                 status: 'success',
                 response: {
-                    trim: trimmedResponse,
-                    formatted: response.answer
+                    text: {
+                        trim: trimmedResponse,
+                        formatted: response.answer
+                    },
+                    voice: voiceResponse
                 },
                 history: history.chat_history
             };
@@ -134,6 +145,78 @@ class LangChainService {
             console.error('Error processing query:', error);
             throw error;
         }
+    }
+
+    async generateVoiceResponse(text) {
+        try {
+            // Normalize text for better speech synthesis
+            const normalizedText = this.normalizeTextForSpeech(text);
+            
+            // Generate speech using ElevenLabs
+            const response = await this.elevenlabs.textToSpeech.convert(
+                config.elevenLabs.voiceId, // e.g., "FGY2WhTYpPnrIDTdsKH5"
+                {
+                    text: normalizedText,
+                    model_id: "eleven_multilingual_v2",
+                    voice_settings: {
+                        stability: 0.5,
+                        similarity_boost: 0.75,
+                        style: 0.15,
+                    }
+                }
+            );
+
+            // Convert stream to buffer
+            const chunks = [];
+            for await (const chunk of response) {
+                chunks.push(chunk);
+            }
+            const buffer = Buffer.concat(chunks);
+            
+            // Convert to base64
+            return buffer.toString('base64');
+
+
+        } catch (error) {
+            console.error('Error generating voice response:', error);
+            throw error;
+        }
+    }
+
+    normalizeTextForSpeech(text) {
+        return text
+            .replace(/&/g, ' dan ')
+            .replace(/(\d+)\.\s+/g, (match, number) => {
+                const numbersInWords = [
+                    'pertama', 'kedua', 'ketiga', 'keempat', 'kelima',
+                    'keenam', 'ketujuh', 'kedelapan', 'kesembilan', 'kesepuluh',
+                    'kesebelas', 'kedua belas', 'ketiga belas', 'keempat belas', 'kelima belas',
+                    'keenam belas', 'ketujuh belas', 'kedelapan belas', 'kesembilan belas', 'kedua puluh',
+                    'kedua puluh satu', 'kedua puluh dua', 'kedua puluh tiga', 'kedua puluh empat', 'kedua puluh lima'
+                ];
+                return `yang ${numbersInWords[parseInt(number) - 1] || number}, `;
+            })
+            .replace(/\bUC\b/g, 'Universitas Ciputra')
+            .replace(/\b(dr|mr|mrs|ms|prof)\./gi, match => match.toLowerCase() === 'dr.' ? 'dokter' : match)
+            .replace(/[-•]\s+/g, ', ')
+            .replace(/([.!?])\s+/g, '$1, ')
+            .replace(/[:,]\s+/g, ', ')
+            .replace(/\((.*?)\)/g, ', $1, ')
+            .replace(/[*_#`]/g, '')
+            .replace(/\s+/g, ' ')
+            .replace(/,+/g, ',')
+            .replace(/\s+,/g, ',')
+            .replace(/,\s+([,.])/g, '$1')
+            .trim();
+    }
+
+    numberToWords(num) {
+
+        const numbers = {
+            0: 'nol', 1: 'satu', 2: 'dua', 3: 'tiga', 4: 'empat', 5: 'lima',
+            6: 'enam', 7: 'tujuh', 8: 'delapan', 9: 'sembilan', 10: 'sepuluh'
+        };
+        return numbers[num] || num;
     }
 
     getRelevantInfo(query, type) {
