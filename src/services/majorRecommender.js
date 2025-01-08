@@ -269,52 +269,46 @@ class ProgramSimulator {
 
         let recommendations = [];
 
-        // Iterate through all programs
         for (const school in this.programData) {
             for (const program in this.programData[school]) {
                 const programInfo = this.programData[school][program];
                 let score = 0;
                 let matchDetails = [];
 
-                // Calculate interest match
                 const interestMatch = this.calculateMatchPercentage(
                     interests,
                     programInfo.interests
                 );
-                score += interestMatch * 0.3; // 30% weight
+                score += interestMatch * 0.3; 
                 matchDetails.push(`Interest Match: ${(interestMatch * 100).toFixed(1)}%`);
 
-                // Calculate strength match
                 const strengthMatch = this.calculateMatchPercentage(
                     strengths,
                     programInfo.strengths
                 );
-                score += strengthMatch * 0.25; // 25% weight
+                score += strengthMatch * 0.25; 
                 matchDetails.push(`Strength Match: ${(strengthMatch * 100).toFixed(1)}%`);
 
-                // Calculate career goals match
                 const careerMatch = this.calculateMatchPercentage(
                     career_goals,
                     programInfo.careers
                 );
-                score += careerMatch * 0.25; // 25% weight
+                score += careerMatch * 0.25; 
                 matchDetails.push(`Career Match: ${(careerMatch * 100).toFixed(1)}%`);
 
-                // Calculate subject match
                 const subjectMatch = this.calculateMatchPercentage(
                     academic_subjects,
                     programInfo.subjects
                 );
-                score += subjectMatch * 0.2; // 20% weight
+                score += subjectMatch * 0.2;
                 matchDetails.push(`Subject Match: ${(subjectMatch * 100).toFixed(1)}%`);
 
-                // Language preference check
                 if (language_preference !== 'any') {
                     if (programInfo.language.toLowerCase() === language_preference.toLowerCase()) {
-                        score *= 1.1; // 10% bonus for language match
+                        score *= 1.1; 
                         matchDetails.push('Language Preference: Match');
                     } else {
-                        score *= 0.9; // 10% penalty for language mismatch
+                        score *= 0.9;
                         matchDetails.push('Language Preference: Mismatch');
                     }
                 }
@@ -330,10 +324,8 @@ class ProgramSimulator {
             }
         }
 
-        // Sort recommendations by score
         recommendations.sort((a, b) => b.score - a.score);
 
-        // Return top recommendations with detailed explanations
         return {
             recommendations: recommendations.slice(0, 5),
             totalPrograms: recommendations.length

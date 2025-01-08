@@ -186,7 +186,6 @@ class LangChainService {
 
                 const programContentArray = [];
 
-                // Iterate through the program data structure
                 for (const [school, programs] of Object.entries(this.programSimulator.programData)) {
                     let schoolContent = `\n== ${school} ==\n`;
 
@@ -256,9 +255,6 @@ class LangChainService {
             const feat_info = this.getRelevantInfo(question, 'featuredProgram');
             const achievement_info = this.getRelevantInfo(question, 'achievements');
             const accreditation_info = this.getRelevantInfo(question, 'accreditations');
-            
-
-            // Extract program preferences and get recommendations if relevant
             const preferences = this.extractProgramPreferences(question);
 
             if (preferences) {
@@ -290,7 +286,6 @@ class LangChainService {
                 .replace(/[#*]/g, '')
                 .trim();
 
-            // Generate voice response
             const voiceResponse = await this.normalizeTextForSpeech(trimmedResponse);
 
             const history = await this.memory.loadMemoryVariables({});
@@ -315,12 +310,10 @@ class LangChainService {
 
     async generateVoiceResponse(text) {
         try {
-            // Normalize text for better speech synthesis
             const normalizedText = this.normalizeTextForSpeech(text);
 
-            // Generate speech using ElevenLabs
             const response = await this.elevenlabs.textToSpeech.convert(
-                config.elevenLabs.voiceId, // e.g., "FGY2WhTYpPnrIDTdsKH5"
+                config.elevenLabs.voiceId, 
                 {
                     text: normalizedText,
                     model_id: "eleven_multilingual_v2",
@@ -332,14 +325,12 @@ class LangChainService {
                 }
             );
 
-            // Convert stream to buffer
             const chunks = [];
             for await (const chunk of response) {
                 chunks.push(chunk);
             }
             const buffer = Buffer.concat(chunks);
 
-            // Convert to base64
             return buffer.toString('base64');
 
         } catch (error) {
@@ -351,7 +342,6 @@ class LangChainService {
     extractProgramPreferences(question) {
         const lowerQuestion = question.toLowerCase();
 
-        // Check if question is about program selection
         if (!lowerQuestion.includes('jurusan') &&
             !lowerQuestion.includes('program') &&
             !lowerQuestion.includes('fakultas')) {
@@ -366,30 +356,24 @@ class LangChainService {
             academic_subjects: []
         };
 
-        // Extract interests
         if (lowerQuestion.includes('suka') || lowerQuestion.includes('minat')) {
-            // Add logic to extract interests from question
             const interestKeywords = ['bisnis', 'teknologi', 'seni', 'kesehatan', 'desain', 'komputer'];
             preferences.interests = interestKeywords.filter(keyword =>
                 lowerQuestion.includes(keyword));
         }
 
-        // Extract strengths
         if (lowerQuestion.includes('bisa') || lowerQuestion.includes('kemampuan')) {
-            // Add logic to extract strengths from question
             const strengthKeywords = ['matematika', 'komunikasi', 'analisis', 'kreativitas'];
             preferences.strengths = strengthKeywords.filter(keyword =>
                 lowerQuestion.includes(keyword));
         }
 
-        // Extract language preference
         if (lowerQuestion.includes('bahasa inggris')) {
             preferences.language_preference = 'english';
         } else if (lowerQuestion.includes('bahasa indonesia')) {
             preferences.language_preference = 'indonesia';
         }
 
-        // Return null if no meaningful preferences were extracted
         if (preferences.interests.length === 0 &&
             preferences.strengths.length === 0 &&
             preferences.language_preference === 'any') {
@@ -503,13 +487,11 @@ class LangChainService {
     formatAccreditationInfo(data) {
         const sections = [];
 
-        // Institution accreditation
         if (data.institution.length > 0) {
             const latest = data.institution[0];
             sections.push(`Akreditasi Institusi: ${latest.grade} (${latest.year})`);
         }
 
-        // Program accreditations
         const formatPrograms = (programs, level) => {
             return Object.entries(programs).map(([name, accreditations]) => {
                 const latest = accreditations[0];
@@ -521,7 +503,6 @@ class LangChainService {
         sections.push(...formatPrograms(data.graduate, 'S2/S3'));
         sections.push(...formatPrograms(data.professional, 'Profesi'));
 
-        // External certifications
         if (data.external) {
             Object.entries(data.external).forEach(([category, certs]) => {
                 if (certs.length > 0) {

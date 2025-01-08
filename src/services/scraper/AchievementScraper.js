@@ -4,7 +4,7 @@ const cheerio = require('cheerio');
 class AchievementScraper {
     constructor() {
         this.baseUrl = 'https://www.ciputra.ac.id/uc-prestasi/';
-        this.limit = 9; // Number of achievements to fetch
+        this.limit = 9; 
     }
 
     async scrapeAchievements() {
@@ -37,23 +37,13 @@ class AchievementScraper {
         const $ = cheerio.load(html);
         const achievements = [];
 
-        // Select all grid items
         $('.w-grid-item').each((_, item) => {
             const $item = $(item);
-            
-            // Get the title from the h2 element
             const title = $item.find('h2.post_title a').text().trim();
-            
-            // Get the link
             const link = $item.find('h2.post_title a').attr('href');
-            
-            // Get the image URL
             const imageUrl = $item.find('img').attr('src');
-            
-            // Determine achievement type from title
             const type = this.determineAchievementType(title);
             
-            // Create achievement object
             const achievement = {
                 title,
                 link,
