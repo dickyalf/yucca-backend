@@ -1,0 +1,604 @@
+<documents>
+<document index="1">
+<source>paste.txt</source>
+<document_content>
+<div id="content" class="col-md-12" role="main">
+                        <article class="single-page-content">
+                        	<div class="wpb-content-wrapper">		<div class="u_row">
+        	<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621399227946-baae6a47-4e06" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621399227946-baae6a47-4e06" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Institusi Perguruan Tinggi Universitas Ciputra Surabaya</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APT-UC-2023-Unggul.pdf" target="_blank" rel="noopener">» SERTIFIKAT AIPT UC 2023 (Unggul)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APT-UC-2023-Unggul-English-Version.pdf" target="_blank" rel="noopener">» SERTIFIKAT AIPT UC 2023 (Unggul) – English&nbsp;</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2023/03/Sertifikat-APT-UC-2023-A.pdf" target="_blank" rel="noopener">» SERTIFIKAT AIPT UC 2023 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/10/SK-APT-UC-2023-Unggul.pdf" target="_blank" rel="noopener">» SK AIPT UC 2023 (Unggul)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APT-UC-2023-Unggul_English.pdf" target="_blank" rel="noopener">» SK AIPT UC 2023 (Unggul) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2023/03/SK-APT-UC-2023-A.pdf">» SK AIPT UC 2023 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/05/SK-AIPT-UC-2017-A.pdf">» SK AIPT UC 2017 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/05/SK-AIPT-UC-2017-B.pdf">» SK AIPT UC 2017 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/05/SK-AIPT-UC-2015-B.pdf">» SK AIPT UC 2015 (B)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621398126476-4782014c-1ac8" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621398126476-4782014c-1ac8" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Akuntansi</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/10/Accreditation-Certificate-FIBAA_Bachelor-of-Accounting_C1_2024-2029.pdf" target="_blank" rel="noopener">» Accreditation Certificate FIBAA Bachelor of Accounting 2024</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/05/Sertifikat-APS-Akuntansi-S1-2024-Unggul.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Akuntansi 2024 (Unggul)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2020/08/Sertifikat-APS-Akuntansi-S1-2020-A.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Akuntansi 2020 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Akuntansi-S1-2020-A_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Akuntansi 2020 (A) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2019/11/Sertifikat-APS-Akuntansi-S1-2015-B.pdf">» Sertifikat APS S1 Akuntansi 2015 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/05/SK-APS-Akuntansi-S1-2024-Unggul.pdf" target="_blank" rel="noopener">» SK APS S1 Akuntansi 2024 (Unggul)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/SK-APS-Akuntansi-S1-2020-A.pdf" target="_blank" rel="noopener">» SK APS S1 Akuntansi 2020 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Akuntansi-S1-2020-A_English.pdf" target="_blank" rel="noopener">» SK APS S1 Akuntansi 2020 (A) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/SK-APS-Akuntansi-S1-2015-B.pdf">» SK APS S1 Akuntansi 2015 (B)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621389128760-8e2c9c97-eb31" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621389128760-8e2c9c97-eb31" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Arsitektur</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2023/11/Sertifikat-APS-Arsitektur-S1-2023-Baik-Sekali.pdf">» Sertifikat APS S1 Arsitektur 2023 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/05/Sertifikat-APS-Arsitektur-S1-2021-Baik-Sekali.pdf">» Sertifikat APS S1 Arsitektur 2021 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Arsitektur-S1-2021-Baik-Sekali_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Arsitektur 2021 (Baik Sekali) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2019/11/Sertifikat-APS-Arsitektur-S1-2018-B.pdf">» Sertifikat APS S1 Arsitektur 2018 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/Sertifikat-APS-Arsitektur-S1-2014-B.pdf">» Sertifikat APS S1 Arsitektur 2014 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2023/11/SK-APS-Arsitektur-S1-2023-Baik-Sekali.pdf">» SK APS S1 Arsitektur 2023 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/05/SK-APS-Arsitektur-S1-2021-Baik-Sekali.pdf">» SK APS S1 Arsitektur 2021 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Arsitektur-S1-2021-Baik-Sekali_English.pdf" target="_blank" rel="noopener">» SK APS S1 Arsitektur 2021 (Baik Sekali) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/SK-APS-Arsitektur-S1-2018-B.pdf">» SK APS S1 Arsitektur 2018 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/SK-APS-Arsitektur-S1-2014-B.pdf">» SK APS S1 Arsitektur 2014 (B)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621398126814-33c56010-d09a" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621398126814-33c56010-d09a" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Desain Komunikasi Visual</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/10/Accreditation-Certificate-FIBAA_Visual-Communication-Design_C2_2024-2029.pdf" target="_blank" rel="noopener">» Accreditation Certificate FIBAA Bachelor of Visual Communication Design 2024 2024</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2020/12/Sertifikat-APS-Desain-Komunikasi-Visual-S1-2020-A.pdf">» Sertifikat APS S1 Desain Komunikasi Visual 2020 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Desain-Komunikasi-Visual-S1-2020-A_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Desain Komunikasi Visual 2020 (A) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2019/11/Sertifikat-APS-Desain-Komunikasi-Visual-S1-2015-A.pdf">» Sertifikat APS S1 Desain Komunikasi Visual 2015 (A) </a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Desain-Komunikasi-Visual-S1-2020-A.pdf">» SK APS S1 Desain Komunikasi Visual 2020 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Desain-Komunikasi-Visual-S1-2020-A_English.pdf" target="_blank" rel="noopener">» SK APS S1 Desain Komunikasi Visual 2020 (A) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Desain-Komunikasi-Visual-S1-2015-A.pdf">» SK APS S1 Desain Komunikasi Visual 2015 (A)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1626407956865-ce0fc4e4-ff8a" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1626407956865-ce0fc4e4-ff8a" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Desain Produk</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/07/Sertifikat-APS-Desain-Produk-S1-2021-Baik.pdf">» Sertifikat APS S1 Desain Produk 2021 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Desain-Produk-S1-2021-Baik_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Desain Produk 2021 (Baik) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/07/SK-APS-Desain-Produk-S1-2021-Baik.pdf">» SK APS S1 Desain Produk 2021 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Desain-Produk-S1-2021-Baik_English.pdf" target="_blank" rel="noopener">» SK APS S1 Desain Produk 2021 (Baik) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/07/SK-APS-Desain-Produk-S1-2020-Baik.pdf">» SK APS S1 Desain Produk 2020 (Baik)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621305970252-3f8e25dd-2e31" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621305970252-3f8e25dd-2e31" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Ilmu Komunikasi</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/10/Accreditation-Certificate-FIBAA_Communication-Science_C2_2024-2029.pdf" target="_blank" rel="noopener">» Accreditation Certificate FIBAA Bachelor of Communication Science 2024</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/Sertifikat-APS-Ilmu-Komunikasi-S1-2021-Baik.pdf">» Sertifikat APS Ilmu Komunikasi S1 2021 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Ilmu-Komunikasi-S1-2021-Baik_English.pdf">» Sertifikat APS Ilmu Komunikasi S1 2021 (Baik) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Ilmu-Komunikasi-S1-2021-Baik.pdf">» SK APS Ilmu Komunikasi S1 2021 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Ilmu-Komunikasi-S1-2021-Baik_English.pdf" target="_blank" rel="noopener">» SK APS Ilmu Komunikasi S1 2021 (Baik) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Ilmu-Komunikasi-S1-2020-Baik.pdf">» SK APS Ilmu Komunikasi S1 2020 (Baik)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621398717320-221cd454-1780" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621398717320-221cd454-1780" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Informatika</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/09/Sertifikat-APS-Informatika-S1-2024-Unggul.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Informatika 2024 (Unggul)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2023/04/97P.Informatika-Univ-Ciputra-Sby.pdf">» Sertifikat Akreditasi IABEE 2023 (Provisionally Accredited)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/Sertifikat-APS-Informatika-S1-2020-A.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Informatika 2020 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Informatika-S1-2020-A_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Informatika 2020 (A) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2019/11/Sertifikat-APS-Teknik-Informatika-S1-2014-B.pdf">» Sertifikat APS S1 Teknik Informatika 2014 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2022/06/SK-APS-Teknik-Informastika-S1-2010-C.pdf">» Sertifikat APS S1 Teknik Informatika 2010 (C)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/09/SK-APS-Informatika-S1-2024-Unggul.pdf" target="_blank" rel="noopener">» SK APS S1 Informatika 2024 (Unggul)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Informatika-S1-2020-A.pdf" target="_blank" rel="noopener">» SK APS S1 Informatika 2020 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Informatika-S1-2020-A_English.pdf" target="_blank" rel="noopener">» SK APS S1 Informatika 2020 (A) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Teknik-Informatika-S1-2014-B.pdf">» SK APS S1 Teknik Informatika 2014 (B)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621396244098-b4b3d90d-97aa" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621396244098-b4b3d90d-97aa" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Kedokteran</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1500">
+<tbody>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2022/01/SK-APS-LAM-PT-Kes-Kedokteran-S1-2021-B.pdf" target="_blank" rel="noopener noreferrer">» SK APS LAM PT-Kes S1 Kedokteran 2021 (B)</a></td>
+</tr>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-LAM-PT-Kes-Kedokteran-S1-2020-B.pdf" target="_blank" rel="noopener noreferrer">» SK APS LAM PT-Kes S1 Kedokteran 2020 (B)</a></td>
+</tr>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2019/11/Sertifikat-APS-LAM-PT-Kes-Pendidikan-Dokter-S1-2018-C.pdf" target="_blank" rel="noopener noreferrer">» Sertifikat APS LAM PT-Kes S1 Pendidikan Dokter 2018 (C)</a></td>
+</tr>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-LAM-PT-Kes-Pendidikan-Dokter-2018.pdf" target="_blank" rel="noopener noreferrer">» SK APS LAM PT-Kes S1 Pendidikan Dokter 2018 (C)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621396244098-b4b3d90d-97aa" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621396244098-b4b3d90d-97aa" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Kedokteran Gigi</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1500">
+<tbody>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/10/SK-APS-LAM-PT-Kes-Kedokteran-Gigi-S1-2024-Baik.pdf" target="_blank" rel="noopener noreferrer">» SK APS LAM PT-Kes S1 Kedokteran Gigi 2024 (Baik)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621398897915-93db601f-a5b3" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621398897915-93db601f-a5b3" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Manajemen</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/10/Accreditation-Certificate-FIBAA_Bachelor-of-Management_C1_2024-2029.pdf" target="_blank" rel="noopener">» Accreditation Certificate FIBAA Bachelor of Management 2024</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2022/01/Sertifikat-APS-Manajemen-S1-2021-A.pdf">» Sertifikat APS S1 Manajemen 2021 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Manajemen-S1-2021-A_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Manajemen 2021 (A) – English</a></td>
+</tr>
+<tr>
+<td><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2019/11/Sertifikat-APS-Manajemen-S1-2017-A.pdf">» Sertifikat APS S1 Manajemen 2017 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2022/01/SK-APS-Manajemen-S1-2021-A.pdf">» SK APS S1 Manajemen 2021 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Manajemen-S1-2021-A_English.pdf" target="_blank" rel="noopener">» SK APS S1 Manajemen 2021 (A) – English</a></td>
+</tr>
+<tr>
+<td><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Manajemen-S1-2017-A.pdf">» SK APS S1 Manajemen 2017 (A)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621398965912-0ed46c82-26bf" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621398965912-0ed46c82-26bf" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Sistem Informasi</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/09/Sertifikat-APS-LAMINFOKOM-Sistem-Informasi-S1-2024-Baik-Sekali.jpeg" target="_blank" rel="noopener">» Sertifikat APS S1 Sistem Informasi 2024 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2022/01/Sertifikat-APS-Sistem-Informasi-S1-2021-Baik.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Sistem Informasi 2021 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Sistem-Informasi-S1-2021-Baik_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Sistem Informasi 2021 (Baik) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/07/Sertifikat-APS-Sistem-Informasi-S1-2019-C.pdf">» Sertifikat APS S1 Sistem Informasi 2019 (C)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/09/SK-APS-LAM-INFOKOM-Sistem-Informasi-S1-2024-Baik-Sekali.pdf" target="_blank" rel="noopener">» SK APS S1 Sistem Informasi 2024 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2022/01/SK-APS-Sistem-Informasi-S1-2021-Baik.pdf">» SK APS S1 Sistem Informasi 2021 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Sistem-Informasi-S1-2021-Baik_English.pdf" target="_blank" rel="noopener">» SK APS S1 Sistem Informasi 2021 (Baik) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/07/SK-APS-Sistem-Informasi-S1-2019-C.pdf">» SK APS S1 Sistem Informasi 2019 (C)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621398925670-0a15ecb1-7491" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621398925670-0a15ecb1-7491" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Pariwisata</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/10/Accreditation-Certificate-FIBAA_Bachelor-of-Tourism_C1_2024-2029.pdf" target="_blank" rel="noopener">» Accreditation Certificate FIBAA Bachelor of Tourism 2024</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/Sertifikat-APS-Pariwisata-S1-2021-Baik-Sekali.pdf">» Sertifikat APS S1 Pariwisata 2021 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Pariwisata-S1-2021-Baik-Sekali_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Pariwisata 2021 (Baik Sekali) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/Sertifikat-APS-Pariwisata-S1-2021-B.pdf">» Sertifikat APS S1 Pariwisata 2021 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/Sertifikat-APS-Pariwsiata-S1-2015-B.pdf">» Sertifikat APS S1 Pariwisata 2015 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Pariwisata-S1-2021-Baik-Sekali.pdf">» SK APS S1 Pariwisata 2021 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Pariwisata-S1-2021-Baik-Sekali_English.pdf" target="_blank" rel="noopener">» SK APS S1 Pariwisata 2021 (Baik Sekali) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/SK-APS-Pariwisata-S1-2021-B.pdf">» SK APS S1 Pariwisata 2021 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/03/SK-APS-Pariwisata-S1-2015-B.pdf">» SK APS S1 Pariwisata 2015 (B)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621399095650-936e1d53-e142" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621399095650-936e1d53-e142" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Psikologi</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Psikologi-S1-2023-Baik-Sekali.pdf">» Sertifikat APS S1 Psikologi 2023 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-Psikologi-S1-2023-Baik-Sekali_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S1 Psikologi 2023 (Baik Sekali) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/07/Sertifikat-APS-Psikologi-S1-2021-Baik-Sekali.pdf">» Sertifikat APS S1 Psikologi 2021 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2019/11/Sertifikat-APS-Psikologi-S1-2018-B.pdf">» Sertifikat APS S1 Psikologi 2018 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/Sertifikat-APS-Psikologi-S1-2014-B.pdf">» Sertifikat APS S1 Psikologi 2014 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Psikologi-S1-2023-Baik-Sekali-1.pdf">» SK APS S1 Psikologi 2023 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Psikologi-S1-2023-Baik-Sekali_English.pdf" target="_blank" rel="noopener">» SK APS S1 Psikologi 2023 (Baik Sekali) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/07/SK-APS-Psikologi-S1-2021-Baik-Sekali.pdf">» SK APS S1 Psikologi 2021 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Psikologi-S1-2018-B.pdf">» SK APS S1 Psikologi 2018 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Psikologi-S1-2014-B.pdf">» SK APS S1 Psikologi 2014 (B)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621399059985-ab1c2ff1-92e7" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621399059985-ab1c2ff1-92e7" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S1 Teknologi Pangan</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/08/Sertifikat-APS-Teknologi-Pangan-S1-2021-Baik.pdf">» Sertifikat APS S1 Teknologi Pangan 2021 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/08/SK-APS-Teknologi-Pangan-S1-2021-Baik.pdf">» SK APS S1 Teknologi Pangan 2021 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/07/SK-APS-Teknologi-Pangan-S1-2020-Baik.pdf">» SK APS S1 Teknologi Pangan 2020 (Baik)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Teknologi-Pangan-S1-2020-Baik_English.pdf" target="_blank" rel="noopener">» SK APS S1 Teknologi Pangan 2020 (Baik) – English</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621399170114-84555e5a-d33d" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621399170114-84555e5a-d33d" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S2 Manajemen</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1314">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/10/Accreditation-Certificate-FIBAA_Master-of-Management_C1_2024-2029.pdf" target="_blank" rel="noopener">» Accreditation Certificate FIBAA Master of Management 2024</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2023/02/Sertifikat-APS-LAMEMBA-Manajemen-S2-2022-Unggul.pdf">» Sertifikat APS S2 Manajemen 2023 (Unggul)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/Sertifikat-APS-LAMEMBA-Manajemen-S2-2022-Unggul_English.pdf" target="_blank" rel="noopener">» Sertifikat APS S2 Manajemen 2023 (Unggul) – English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/12/Sertifikat-APS-Manajemen-S2-2021-Baik-Sekali.pdf">» Sertifikat APS S2 Manajemen 2021 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/Sertifikat-APS-Manajemen-S2-2019-B.pdf">» Sertifikat APS S2 Manajemen 2019 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/Sertifikat-APS-Manajemen-S2-2015-B.pdf">» Sertifikat APS S2 Manajemen 2015 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2023/02/197-SK-Peringkat-Akreditasi-Universitas-Ciputra-Surabaya-S2-Manajemen.pdf">» SK APS S2 Manajemen 2023 (Unggul)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-LAMEMBA-Manajemen-S2-2022-Unggul_English.pdf" target="_blank" rel="noopener">» SK APS S2 Manajemen 2023 (Unggul) –&nbsp; English</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/12/SK-APS-Manajemen-S2-2021-Baik-Sekali.pdf">» SK APS S2 Manajemen 2021 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Manajemen-S2-2019-B.pdf">» SK APS S2 Manajemen 2019 (B)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-Manajemen-S2-2015-B.pdf">» SK APS S2 Manajemen 2015 (B)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1621399075270-df84f29e-6e8f" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1621399075270-df84f29e-6e8f" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi S3 Ilmu Manajemen</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table style="height: 34px;" width="1484">
+<tbody>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/07/Sertifikat-APS-LAMEMBA-Ilmu-Manajemen-S3-2024-Baik-Sekali.pdf" target="_blank" rel="noopener noreferrer">» Sertifikat APS S3 Ilmu Manajemen 2024 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/07/SK-APS-LAMEMBA-Ilmu-Manajemen-S3-2024-Baik-Sekali.pdf" target="_blank" rel="noopener noreferrer">» SK APS S3 Ilmu Manajemen 2024 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/05/SK-APS-Ilmu-Manajemen-S3-2023-Baik.pdf" target="_blank" rel="noopener noreferrer">» SK APS S3 Ilmu Manajemen 2023 (Baik)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1715797473116-72a871ac-aa18" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1715797473116-72a871ac-aa18" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi Profesi Dokter</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="1500">
+<tbody>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2019/11/Sertifikat-APS-LAM-PT-Kes-Profesi-Dokter-2018-C.pdf" target="_blank" rel="noopener noreferrer">» Sertifikat APS LAM PT-Kes Profesi Dokter 2018 (C)</a></td>
+</tr>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2022/01/SK-APS-LAM-PT-Kes-Profesi-Dokter-2021-B.pdf" target="_blank" rel="noopener noreferrer">» SK APS LAM PT-Kes Profesi Dokter 2021 (B)</a></td>
+</tr>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-LAM-PT-Kes-Profesi-Dokter-2020-C.pdf" target="_blank" rel="noopener noreferrer">» SK APS LAM PT-Kes Profesi Dokter 2020 (C)</a></td>
+</tr>
+<tr>
+<td width="1500"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/04/SK-APS-LAM-PT-Kes-Profesi-Dokter-S1-2018.pdf" target="_blank" rel="noopener noreferrer">» SK APS LAM PT-Kes Profesi Dokter 2018 (C)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1705398223619-3b4cb741-6cb0" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1705398223619-3b4cb741-6cb0" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi Di Luar Kampus Utama (PSDKU) S1 Desain Komunikasi Visual</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="564">
+<tbody>
+<tr>
+<td width="564"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Desain-Komunikasi-Visual-PSDKU-S1-2023-Baik-1.pdf" target="_blank" rel="noopener">» SK APS S1 Desain Komunikasi Visual PSDKU 2023 (Baik)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1705397722543-9a861041-d857" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1705397722543-9a861041-d857" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Program Studi Di Luar Kampus Utama (PSDKU) S1 Informatika</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="564">
+<tbody>
+<tr>
+<td width="564"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/09/Sertifikat-APS-LAMINFOM-Informatika-Kampus-Kota-Makassar-S1-2024-Baik-Sekali.jpeg" target="_blank" rel="noopener">» Sertifikat APS S1 Informatika PSDKU 2024 (Baik Sekali)</a></td>
+</tr>
+<tr>
+<td width="564"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/01/SK-APS-Informatika-PSDKU-S1-2023-Baik-1.pdf" target="_blank" rel="noopener">» SK APS S1 Informatika PSDKU 2023 (Baik)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1626409124792-53528cdc-ee0c" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1626409124792-53528cdc-ee0c" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Akreditasi Perpustakaan</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table style="height: 17px;" width="1495">
+<tbody>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2024/09/SA-1662.-A_Perpustakaan-Universitas-Ciputra-Surabaya.pdf" target="_blank" rel="noopener">» Sertifikat Akreditasi Perpustakaan 2024 (A)</a></td>
+</tr>
+<tr>
+<td width="1314"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2021/05/Sertifikat-Akreditasi-UC-Library-2019-A.pdf" target="_blank" rel="noopener">» Sertifikat Akreditasi Perpustakaan 2019 (A)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapseAll"><div class="vc_general vc_tta vc_tta-accordion vc_tta-color-grey vc_tta-style-flat vc_tta-shape-rounded vc_tta-o-shape-group vc_tta-controls-align-default vc_tta-o-no-fill vc_tta-o-all-clickable"><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel" id="1626409265066-41f63e15-4813" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1626409265066-41f63e15-4813" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Sertifikasi ISO</span><i class="vc_tta-controls-icon vc_tta-controls-icon-chevron"></i></a></h4></div><div class="vc_tta-panel-body">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<table width="535">
+<tbody>
+<tr>
+<td width="535"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2022/09/Sertifikat-ISO-9001-2015-UC-2022.pdf" target="_blank" rel="noopener">» Sertifikat ISO 9001:2015 (2022-2025)</a></td>
+</tr>
+<tr>
+<td width="535"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2020/10/Sertifikat-ISO-9001-2015-UC-2019.pdf" target="_blank" rel="noopener">» Sertifikat ISO 9001:2015 (2019-2022)</a></td>
+</tr>
+<tr>
+<td width="535"><a href="https://www.ciputra.ac.id/qa/wp-content/uploads/2023/11/00042226-SINGLE-ENGGB.jpg" target="_blank" rel="noopener">» Sertifikat ISO 21001:2018 (2023-2024)</a></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div></div></div>    			</div><!--/u_row-->
+	
+<div class="post-views content-post post-537 entry-meta load-static">
+				<span class="post-views-icon dashicons dashicons-chart-bar"></span> <span class="post-views-label">Post Views:</span> <span class="post-views-count">5,506</span>
+			</div></div>                        </article>
+						
+						
+                    </div>
+</document_content>
+</document>
+</documents>
+EOL
