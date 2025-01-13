@@ -286,7 +286,7 @@ class LangChainService {
                 .replace(/[#*]/g, '')
                 .trim();
 
-            const voiceResponse = await this.normalizeTextForSpeech(trimmedResponse);
+            const voiceResponse = await this.generateVoiceResponse(trimmedResponse);
 
             const history = await this.memory.loadMemoryVariables({});
 
@@ -320,7 +320,7 @@ class LangChainService {
                     voice_settings: {
                         stability: 0.5,
                         similarity_boost: 0.75,
-                        style: 0.15,
+                        style: 0.05,
                     }
                 }
             );
