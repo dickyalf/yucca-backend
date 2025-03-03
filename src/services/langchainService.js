@@ -7,7 +7,7 @@ const { PDFLoader } = require('langchain/document_loaders/fs/pdf');
 const { ProgramSimulator, programData } = require('./majorRecommender');
 const scholarshipScraper = require('./scraper/scholarshipScraper');
 const AchievementScraper = require('./scraper/AchievementScraper');
-const AccreditationScraper  = require('./scraper/AccreditationScraper');
+const AccreditationScraper = require('./scraper/AccreditationScraper');
 const config = require('../config/config');
 
 
@@ -40,7 +40,18 @@ class LangChainService {
             studentOrganization: null,
             featuredProgram: null,
             achievements: null,
-            accreditations: null
+            accreditations: null,
+            careerAndAlumni: null,
+            s3: null,
+            guruBesarAndRektorat: null,
+            magisterManajemen: null,
+            programRPL: null,
+            stukturUniversitas: null,
+            tugasDanTanggungJawab: null,
+            ucCenter: null,
+            ucFambus: null,
+            rentAndFood: null,
+            dosenUc: null,
         };
 
     }
@@ -63,6 +74,17 @@ class LangChainService {
                     "INFORMASI PROGRAM UNGGULAN:\n{feat_info}\n\n" +
                     "PRESTASI TERBARU UC:\n{achievement_info}\n\n" +
                     "INFORMASI AKREDITASI:\n{accreditation_info}\n\n" +
+                    "INFORMASI KARIR DAN ALUMNI:\n{career_alumni_info}\n\n" +
+                    "INFORMASI PROGRAM S3:\n{s3_info}\n\n" +
+                    "INFORMASI GURU BESAR DAN REKTORAT:\n{guru_besar_info}\n\n" +
+                    "INFORMASI PROGRAM MAGISTER MANAJEMEN:\n{magister_info}\n\n" +
+                    "INFORMASI PROGRAM RPL:\n{rpl_info}\n\n" +
+                    "INFORMASI STRUKTUR ORGANISASI UC:\n{struktur_info}\n\n" +
+                    "INFORMASI TUGAS DAN TANGGUNG JAWAB:\n{tugas_info}\n\n" +
+                    "INFORMASI UC CENTER:\n{uc_center_info}\n\n" +
+                    "INFORMASI UC FAMILY BUSINESS CENTER:\n{uc_fambus_info}\n\n" +
+                    "INFORMASI KOS DAN MAKANAN TAMBAHAN YANG LEBIH VALID:\n{rent_food_info}\n\n" +
+                    "INFORMASI DOSEN UC:\n{dosen_uc_info}\n\n" +
                     "RIWAYAT CHAT:\n{chat_history}\n\n" +
                     "PERTANYAAN TERBARU: {question}\n\n" +
                     "Berikan jawaban yang formal namun ramah, berdasarkan informasi yang tersedia di atas."
@@ -133,6 +155,113 @@ class LangChainService {
             } catch (error) {
                 console.error('Error loading scholarship data:', error);
                 this.knowledgeBase.scholarships = 'Informasi beasiswa tidak tersedia';
+            }
+
+            try {
+                const rentAndFoodLoader = new PDFLoader(config.sources.rentAndFood.path);
+                const rentAndFoodDocs = await rentAndFoodLoader.load();
+                this.knowledgeBase.rentAndFood = rentAndFoodDocs.map(doc => doc.pageContent).join('\n');
+                console.log('rentAndFood document loaded successfully');
+            } catch (error) {
+                console.error('Error loading rentAndFood document:', error);
+                this.knowledgeBase.rentAndFood = 'Informasi rentAndFood tidak tersedia';
+            }
+
+            try {
+                const dosenUcLoader = new PDFLoader(config.sources.dosenUc.path);
+                const dosenUcDocs = await dosenUcLoader.load();
+                this.knowledgeBase.dosenUc = dosenUcDocs.map(doc => doc.pageContent).join('\n');
+                console.log('dosenUc document loaded successfully');
+            } catch (error) {
+                console.error('Error loading dosenUc document:', error);
+                this.knowledgeBase.dosenUc = 'Informasi dosenUc tidak tersedia';
+            }
+
+            try {
+                const careerAndAlumniLoader = new PDFLoader(config.sources.careerAndAlumni.path);
+                const careerAndAlumniDocs = await careerAndAlumniLoader.load();
+                this.knowledgeBase.careerAndAlumni = careerAndAlumniDocs.map(doc => doc.pageContent).join('\n');
+                console.log('careerAndAlumni document loaded successfully');
+            } catch (error) {
+                console.error('Error loading careerAndAlumni document:', error);
+                this.knowledgeBase.careerAndAlumni = 'Informasi careerAndAlumni tidak tersedia';
+            }
+
+            try {
+                const s3Loader = new PDFLoader(config.sources.s3.path);
+                const s3Docs = await s3Loader.load();
+                this.knowledgeBase.s3 = s3Docs.map(doc => doc.pageContent).join('\n');
+                console.log('s3 document loaded successfully');
+            } catch (error) {
+                console.error('Error loading s3 document:', error);
+                this.knowledgeBase.s3 = 'Informasi s3 tidak tersedia';
+            }
+
+            try {
+                const guruBesarAndRektoratLoader = new PDFLoader(config.sources.guruBesarAndRektorat.path);
+                const guruBesarAndRektoratDocs = await guruBesarAndRektoratLoader.load();
+                this.knowledgeBase.guruBesarAndRektorat = guruBesarAndRektoratDocs.map(doc => doc.pageContent).join('\n');
+                console.log('guruBesarAndRektorat document loaded successfully');
+            } catch (error) {
+                console.error('Error loading guruBesarAndRektorat document:', error);
+                this.knowledgeBase.guruBesarAndRektorat = 'Informasi guruBesarAndRektorat tidak tersedia';
+            }
+
+            try {
+                const magisterManajemenLoader = new PDFLoader(config.sources.magisterManajemen.path);
+                const magisterManajemenDocs = await magisterManajemenLoader.load();
+                this.knowledgeBase.magisterManajemen = magisterManajemenDocs.map(doc => doc.pageContent).join('\n');
+                console.log('magisterManajemen document loaded successfully');
+            } catch (error) {
+                console.error('Error loading magisterManajemen document:', error);
+                this.knowledgeBase.magisterManajemen = 'Informasi magisterManajemen tidak tersedia';
+            }
+
+            try {
+                const programRPLLoader = new PDFLoader(config.sources.programRPL.path);
+                const programRPLDocs = await programRPLLoader.load();
+                this.knowledgeBase.programRPL = programRPLDocs.map(doc => doc.pageContent).join('\n');
+                console.log('programRPL document loaded successfully');
+            } catch (error) {
+                console.error('Error loading programRPL document:', error);
+                this.knowledgeBase.programRPL = 'Informasi programRPL tidak tersedia';
+            }
+
+            try {
+                const stukturUniversitasLoader = new PDFLoader(config.sources.stukturUniversitas.path);
+                const stukturUniversitasDocs = await stukturUniversitasLoader.load();
+                this.knowledgeBase.stukturUniversitas = stukturUniversitasDocs.map(doc => doc.pageContent).join('\n');
+                console.log('stukturUniversitas document loaded successfully');
+            } catch (error) {
+                console.error('Error loading stukturUniversitas document:', error);
+                this.knowledgeBase.stukturUniversitas = 'Informasi stukturUniversitas tidak tersedia';
+            }
+            try {
+                const tugasDanTanggungJawabLoader = new PDFLoader(config.sources.tugasDanTanggungJawab.path);
+                const tugasDanTanggungJawabDocs = await tugasDanTanggungJawabLoader.load();
+                this.knowledgeBase.tugasDanTanggungJawab = tugasDanTanggungJawabDocs.map(doc => doc.pageContent).join('\n');
+                console.log('tugasDanTanggungJawab document loaded successfully');
+            } catch (error) {
+                console.error('Error loading tugasDanTanggungJawab document:', error);
+                this.knowledgeBase.tugasDanTanggungJawab = 'Informasi tugasDanTanggungJawab tidak tersedia';
+            }
+            try {
+                const ucCenterLoader = new PDFLoader(config.sources.ucCenter.path);
+                const ucCenterDocs = await ucCenterLoader.load();
+                this.knowledgeBase.ucCenter = ucCenterDocs.map(doc => doc.pageContent).join('\n');
+                console.log('ucCenter document loaded successfully');
+            } catch (error) {
+                console.error('Error loading ucCenter document:', error);
+                this.knowledgeBase.ucCenter = 'Informasi ucCenter tidak tersedia';
+            }
+            try {
+                const ucFambusLoader = new PDFLoader(config.sources.ucFambus.path);
+                const ucFambusDocs = await ucFambusLoader.load();
+                this.knowledgeBase.ucFambus = ucFambusDocs.map(doc => doc.pageContent).join('\n');
+                console.log('ucFambus document loaded successfully');
+            } catch (error) {
+                console.error('Error loading ucFambus document:', error);
+                this.knowledgeBase.ucFambus = 'Informasi ucFambus tidak tersedia';
             }
 
             try {
@@ -211,14 +340,14 @@ class LangChainService {
 
             try {
                 const achievementData = await AchievementScraper.scrapeAchievements();
-                
-                const formattedAchievements = achievementData.achievements.map(achievement => 
+
+                const formattedAchievements = achievementData.achievements.map(achievement =>
                     `Prestasi: ${achievement.title}\n` +
                     `Kategori: ${achievement.type}\n` +
                     `Tahun: ${achievement.date}\n` +
                     `Link: ${achievement.link}\n`
                 ).join('\n');
-    
+
                 this.knowledgeBase.achievements = formattedAchievements;
                 console.log('Achievement data updated successfully');
             } catch (error) {
@@ -244,7 +373,6 @@ class LangChainService {
 
     async processQuery(question) {
         try {
-            console.log('Accreditations:', this.knowledgeBase.accreditations);
             const pmb_info = this.getRelevantInfo(question, 'pmb');
             const academic_info = this.getRelevantInfo(question, 'academic');
             const scholarship_info = this.getRelevantInfo(question, 'scholarships');
@@ -255,6 +383,20 @@ class LangChainService {
             const feat_info = this.getRelevantInfo(question, 'featuredProgram');
             const achievement_info = this.getRelevantInfo(question, 'achievements');
             const accreditation_info = this.getRelevantInfo(question, 'accreditations');
+
+            // New information sources
+            const career_alumni_info = this.getRelevantInfo(question, 'careerAndAlumni');
+            const s3_info = this.getRelevantInfo(question, 's3');
+            const guru_besar_info = this.getRelevantInfo(question, 'guruBesarAndRektorat');
+            const magister_info = this.getRelevantInfo(question, 'magisterManajemen');
+            const rpl_info = this.getRelevantInfo(question, 'programRPL');
+            const struktur_info = this.getRelevantInfo(question, 'stukturUniversitas');
+            const tugas_info = this.getRelevantInfo(question, 'tugasDanTanggungJawab');
+            const uc_center_info = this.getRelevantInfo(question, 'ucCenter');
+            const uc_fambus_info = this.getRelevantInfo(question, 'ucFambus');
+            const rent_food_info = this.getRelevantInfo(question, 'rentAndFood');
+            const dosen_uc_info = this.getRelevantInfo(question, 'dosenUc');
+
             const preferences = this.extractProgramPreferences(question);
 
             if (preferences) {
@@ -278,7 +420,18 @@ class LangChainService {
                 org_info,
                 feat_info,
                 achievement_info,
-                accreditation_info
+                accreditation_info,
+                career_alumni_info,
+                s3_info,
+                guru_besar_info,
+                magister_info,
+                rpl_info,
+                struktur_info,
+                tugas_info,
+                uc_center_info,
+                uc_fambus_info,
+                rent_food_info,
+                dosen_uc_info
             });
 
             const trimmedResponse = response.answer
@@ -313,7 +466,7 @@ class LangChainService {
             const normalizedText = this.normalizeTextForSpeech(text);
 
             const response = await this.elevenlabs.textToSpeech.convert(
-                config.elevenLabs.voiceId, 
+                config.elevenLabs.voiceId,
                 {
                     text: normalizedText,
                     model_id: "eleven_multilingual_v2",

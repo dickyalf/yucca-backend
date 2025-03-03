@@ -9,7 +9,7 @@ module.exports = {
     googleMapsApiKey: process.env.GOOGLE_MAPS_API_KEY || 'AIzaSyAqh2XrHXo_XG4sTWz-RwLKwppmhK8Cexs',
     elevenLabs: {
         modelId: 'eleven_multilingual_v2',
-        voiceId: 'K96iu02EE1xpOq4v1Rih'
+        voiceId: 'YJd40oKgK9lBebR3YMUI'
     },
     sources: {
         pmb: {
@@ -28,6 +28,51 @@ module.exports = {
             path: './pdfs/program_unggulan.pdf',
             type: 'pdf'
         },
+        careerAndAlumni: {
+            path: './pdfs/career_and_alumni.pdf',
+            type: 'pdf'
+        },
+        s3: {
+            path: './pdfs/doktors3_ilmu_management.pdf',
+            type: 'pdf'
+        },
+        guruBesarAndRektorat: {
+            path: './pdfs/Guru _Besar-Rektorat_Universitas_Ciputra_dan_lokasi_Universitas_Ciputra.pdf',
+            type: 'pdf'
+        },
+        magisterManajemen: {
+            path: './pdfs/Program_Magister_Manajemen_Universitas_Ciputra.pdf',
+            type: 'pdf'
+        },
+        programRPL: {
+            path: './pdfs/Program_RPL_UC.docx.pdf',
+            type: 'pdf'
+        },
+        stukturUniversitas: {
+            path: './pdfs/Struktur_Organisasi_Universitas_Ciputra_.pdf',
+            type: 'pdf'
+        },
+        tugasDanTanggungJawab: {
+            path: './pdfs/Tugas_dan_tangggung_jawab_organisasi UC.pdf',
+            type: 'pdf'
+        },
+        ucCenter: {
+            path: './pdfs/UC_Center.docx.pdf',
+            type: 'pdf'
+        },
+        ucFambus: {
+            path: './pdfs/UC_Family_Business_Center.docx.pdf',
+            type: 'pdf'
+        },
+        rentAndFood: {
+            path: './pdfs/kos_dan_makanan.docx.pdf',
+            type: 'pdf'
+        },
+        dosen_uc: {
+            path: './pdfs/dosen_uc.docx.pdf',
+            type: 'pdf'
+        },
+        
         scraping: {
             updateInterval: 24 * 60 * 60 * 1000, // 24 jam
             cacheExpiry: 60 * 60 * 1000, // 1 jam
@@ -116,16 +161,38 @@ INFORMASI YANG DAPAT DIBERIKAN:
     Q: "Kalau masuk jurusan informatika nanti jadi apa?"
     A: "Kamu akan memiliki peluang karir di bidang teknologi seperti software engineer, data scientist, atau cybersecurity analyst. Jurusan ini juga membekali kamu dengan keterampilan untuk menjadi pengembang aplikasi, konsultan IT, atau bahkan enterpreneur di bidang teknologi."
 
-6. Simulasi Pemilihan Jurusan 🎯
-  Contoh pertanyaan & jawaban:
-  Q: "Mau daftar UC tapi bingung jurusan"
-  A: "Hey! Aku bantu pilih jurusan yang cocok buat kamu ya! 😊
-      Btw, apa sih hobi kamu sehari-hari? 
-      Cerita dong aktivitas yang paling kamu suka!"
+6. Simulasi Pemilihan Jurusan dan UKM 🎯
+    Contoh pertanyaan & jawaban:
+    Q: "Mau daftar UC tapi bingung jurusan"
+    A: "Hey! Aku bantu pilih jurusan yang cocok buat kamu ya! 😊
+    Btw, apa sih hobi kamu sehari-hari? 
+    Cerita dong aktivitas yang paling kamu suka!"
 
-  Q: "Aku suka main game"
-  A: "Wah asik! 🎮 Kamu lebih suka main gamenya aja atau tertarik juga sama proses pembuatan game? 
-      Oh iya, kamu juga suka matematika atau coding gak? Penasaran nih!"
+    Q: "Aku suka main game"
+    A: "Wah asik! 🎮 Kamu lebih suka main gamenya aja atau tertarik juga sama proses pembuatan game? 
+    Oh iya, kamu juga suka matematika atau coding gak? Penasaran nih!"
+
+    Q: "Aku suka coding sih, pengen bisa bikin game juga"
+    A: "Nice choice! 🚀 Berdasarkan minat kamu, nih rekomendasi dari aku:
+
+    JURUSAN:
+    • Informatika - Peminatan Game Development
+    - Belajar coding, game design, dan development
+    - Kurikulum disesuaikan industri game terkini
+    - Kesempatan magang di game studio
+
+    UKM yang Cocok dengan Minatmu:
+    • UC Esport
+    - Terlibat dalam game development project
+    - Regular game testing session
+    - Networking dengan game developer
+    
+    • Programming Club
+    - Belajar coding bareng
+    - Project development
+    - Ikut game jam & hackathon
+
+    Gimana? Mau tau lebih detail tentang jurusan atau UKM nya? 😊"
     
 7. Tempat Makan/Cafe Terdekat UC
     Contoh pertanyaan & jawaban:
@@ -164,7 +231,6 @@ INFORMASI YANG DAPAT DIBERIKAN:
     • Juara 1 TikTok Nasional LO Kreatif 2024
     • Juara 2 International Green Entrepreneurship LO Kreatif 2024
 
-
 11. Akreditasi UC
     Contoh pertanyaan & jawaban:
     Q: "UC terakreditasi apa?"
@@ -178,6 +244,26 @@ INFORMASI YANG DAPAT DIBERIKAN:
     - International Business Management: A
     [Sebutkan sesuai data terbaru]
     UC juga tersertifikasi ISO 9001:2015 untuk sistem manajemen mutu! 🏅"
+
+12. Career and Alumni Development
+Informasi tentang pengembangan karir dan alumni UC
+
+13. Program Pascasarjana
+- Program Doktor (S3) Ilmu Manajemen
+- Program Magister Manajemen
+
+14. Informasi Struktur dan Organisasi
+- Guru Besar dan Rektorat UC
+- Struktur Organisasi
+- Tugas dan tanggung jawab organisasi
+
+15. Fasilitas Khusus
+- UC Center
+- UC Family Business Center
+- Program RPL UC
+
+16. Informasi Dosen
+Data dan informasi tentang dosen-dosen UC
 
 PANDUAN MENJAWAB:
 
